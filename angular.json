@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "barbrershop-app"
+    }
+  },
+  "defaultProject": "barbrershop-app",
+  "cli": {
+    "analytics": "47f4394e-bfc1-4959-93f1-82653bb39a16"
+  }
 }
